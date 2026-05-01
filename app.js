@@ -29,11 +29,6 @@ const makeImages = (shows) => {
 
             resultImages.appendChild(Container);
 
-
-            // const img = document.createElement('IMG');
-            // img.src = result.show.image.medium;
-            // resultImages.appendChild(img);
-
         }
     }
 }
